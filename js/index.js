@@ -1,4 +1,3 @@
-// Variáveis globais
 let produtos = [];
 let itensCarrinho = [];
 
