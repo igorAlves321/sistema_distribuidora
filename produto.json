@@ -1,0 +1,13 @@
+    "produtos": [
+        {"id": 1, "nome": "Caixa de Cerveja", "preco": 35.90},
+        {"id": 2, "nome": "Garrafa de Vinho", "preco": 45.50},
+        {"id": 3, "nome": "Refrigerante 2L", "preco": 8.99},
+        {"id": 4, "nome": "Água Mineral 500ml", "preco": 2.50},
+        {"id": 5, "nome": "Whisky", "preco": 89.90},
+        {"id": 6, "nome": "Vodka", "preco": 65.75},
+        {"id": 7, "nome": "Salgadinhos", "preco": 7.50},
+        {"id": 8, "nome": "Água Tônica", "preco": 5.99},
+        {"id": 9, "nome": "Energético", "preco": 9.90},
+        {"id": 10, "nome": "Cachaça", "preco": 25.00}
+    ]
+}
